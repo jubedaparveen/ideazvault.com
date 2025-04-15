@@ -1,11 +1,6 @@
 import React from 'react'
 import { FaArrowRight, FaArrowLeft, FaSearch } from "react-icons/fa";
 
-
-
-
-
-
 const BlogCategoryPage = () => {
   return (
     <div className='my-20 w-[90%] mx-auto '>
@@ -30,7 +25,7 @@ const BlogCategoryPage = () => {
                 <div className=' '>
                   <img src="images/posts/post-img-8.jpg" alt="" className=' h-full' />
                 </div>
-                <a href="/single" className='cursor-pointer  '>
+                <a href="/singlepageblog" className='cursor-pointer  '>
                   <div className='p-4 text-justify'>
                     <span className='flex gap-1 text-[#232b22]/50'><p>Tech Blog . </p><p> Mar 13th 25</p></span>
                     <h2 className='text-3xl mb-2 hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
@@ -50,7 +45,7 @@ const BlogCategoryPage = () => {
                 <div className=' '>
                   <img src="images/posts/post-img-8.jpg" alt="" className='' />
                 </div>
-                <a href="/single" className='cursor-pointer  '>
+                <a href="/singlepageblog" className='cursor-pointer  '>
                   <div className='p-4 text-justify'>
                     <span className='flex gap-1 text-[#232b22]/50'><p>Tech Blog . </p><p> Mar 13th 25</p></span>
                     <h2 className='text-3xl mb-2 hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
@@ -113,7 +108,7 @@ const BlogCategoryPage = () => {
                   <div className='w-28 h-auto '>
                     <img src="images/posts/post-img-8.jpg" alt="" className='w-28 h-full' />
                   </div>
-                  <a href="/single" className='cursor-pointer  '>
+                  <a href="/singlepageblog" className='cursor-pointer  '>
                     <div className='px-2 py-1 text-justify'>
                       <h2 className='text-lg  hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
                       <p className='text-[#586c58]'>Mar 15th 2025</p>
@@ -128,7 +123,7 @@ const BlogCategoryPage = () => {
                   <div className='w-28 h-auto '>
                     <img src="images/posts/post-img-5.jpg" alt="" className='w-28 h-full' />
                   </div>
-                  <a href="/single" className='cursor-pointer  '>
+                  <a href="/singlepageblog" className='cursor-pointer  '>
                     <div className='px-2 py-1 text-justify'>
                       <h2 className='text-lg  hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
                       <p className='text-[#586c58]'>Mar 15th 2025</p>
@@ -142,7 +137,7 @@ const BlogCategoryPage = () => {
                   <div className='w-28 h-auto '>
                     <img src="images/posts/post-img-6.jpg" alt="" className='w-28 h-full' />
                   </div>
-                  <a href="/single" className='cursor-pointer  '>
+                  <a href="/singlepageblog" className='cursor-pointer  '>
                     <div className='px-2 py-1 text-justify'>
                       <h2 className='text-lg  hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
                       <p className='text-[#586c58]'>Mar 15th 2025</p>
@@ -157,7 +152,7 @@ const BlogCategoryPage = () => {
                   <div className='w-28 h-auto '>
                     <img src="images/posts/post-img-7.jpg" alt="" className='w-28 h-full' />
                   </div>
-                  <a href="/single" className='cursor-pointer  '>
+                  <a href="/singlepageblog" className='cursor-pointer  '>
                     <div className='px-2 py-1 text-justify'>
                       <h2 className='text-lg  hover:underline hover:text-green-900'> The Rise of Social Media Influencers</h2>
                       <p className='text-[#586c58]'>Mar 15th 2025</p>
