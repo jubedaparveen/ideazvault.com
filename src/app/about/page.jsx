@@ -43,8 +43,7 @@ const AboutPage = () => {
         <div className=" text-lg bg-white/60 border border-[#0E2A10]/20 rounded-lg p-6 mt-4 shadow-xl ">
           <h2 className="text-2xl font-semibold mt-6 mb-2">Our Vision</h2>
           <p className="text-justify">
-            At IdeazVault.com, we envision a world where knowledge is accessible to everyone. We aim to bridge the gap between information and understanding, empowering individuals to make informed decisions and contribute positively to society. Our platform serves as a hub for diverse voices and perspectives, fostering a culture of learning and growth.
-            Our vision is to create a space where knowledge is freely shared and accessible to all. We aim to empower individuals through information, fostering a community of learners and thinkers.
+            Welcome to IdeazVault.com, your go-to source for insightful articles and resources on a variety of topics. Our platform is dedicated to providing high-quality content that informs, educates, and inspires our readers. We believe in the power of knowledge and strive to create a space where individuals can explore new ideas and perspectives.
           </p>
           <h2 className="text-2xl font-semibold mt-6 mb-2">Our Values</h2>
           <p className="text-justify">
